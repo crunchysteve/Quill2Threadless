@@ -1,5 +1,5 @@
 # Quill2Threadless
-**An OpenSCAD design for a compnent that allows the use of a 1" quill stem on an 1 1/8" threadless steerer bicycle.**
+**An OpenSCAD design for a compnent that allows the use of a 1" quill stem in a 1 1/8" threadless steerer bicycle.**
 
 **Quill2Threadless** is a way the get handlebar height adjustment on a modern bicycle without having to rebuild your entire threadless stack. If your bike's steerer tube has been cut to a given size, it's impossible to adjust raise your handlebar height without adding an ugly, clamping riser post. Now, don't gett me wrong, for everything else, threadless is a better format, but what if you could have both, without compromise? Still easy to tighten down the stack to keep steering tight, but also easy to laft the handlebar a bit at the end of a long day.
 
