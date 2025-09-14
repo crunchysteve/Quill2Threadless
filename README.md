@@ -31,7 +31,7 @@ NOTE: Lubricate all contacting parts well! Inside & out.
 2.  Place 3 to 5 washers over the screw threads.
 3.  Screw the starnut onto the M5 screw until it's lightly tight, making sure the wings of the starnut point up towards the quill adapter.
 4.  Using a press (or a rubber mallet), use the quill adapter to drive the starnut as far down the fork steerer tube as you can.
-5.  Undo the screw from the starnut, releasing the quill adapter, the screw and the wasers from the starnut, withdrawing all from within the steerer.
+5.  Undo the screw from the starnut, releasing the quill adapter, the screw and the washers from the starnut, withdrawing all from within the steerer.
 
 To Install the fork and quill stem adapter...
 1.  Insert the fork steerer tube into the frame head tube, complete with crown bearings and races on the steerer.
