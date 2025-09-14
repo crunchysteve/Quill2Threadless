@@ -15,11 +15,11 @@ Download the STL file and use a metal 3D printing service like JLC3DP or PCBWay 
 Stainless Steel (316) = < AU$80 (PCBWay)
                         ~ AU$40 (JLC3DP)
 
-Aluminium             =   ~ AU$40 (PCBWay only)
+Aluminium             = ~ AU$40 (PCBWay only)
                             (^ recommended!)
 
-Titanium              =  ~ AU$297 (PCBWay)
-                         ~ AU$82 (JLC3DP)
+Titanium              = ~ AU$297 (PCBWay)
+                        ~ AU$82 (JLC3DP)
 
 Updates quoting can be checked at [PCBWay](https://www.pcbway.com/rapid-prototyping/manufacture/?type=2&reffercode=TOP)'s or [JLC3DP](https://jlc3dp.com/3d-printing-quote?spm=Jlc3dp.Homepage.1011.d1)'s automated quoting pages and can be ordered from those links if this part solves your problem. I receive no commission for any sales linked from here nor am I paid to promote them. It's entirely your call whether you buy from these services, I present them as a pricing guide only. If you have an SLM manufacturing service in your town, consider them for a quote, too. That provides local employment and reduces the product carbon mils, as well.
 
@@ -31,13 +31,13 @@ NOTE: Lubricate all contacting parts well! Inside & out.
 2.  Place 3 to 5 washers over the screw threads.
 3.  Screw the starnut onto the M5 screw until it's lightly tight, making sure the wings of the starnut point up towards the quill adapter.
 4.  Using a press (or a rubber mallet), use the quill adapter to drive the starnut as far down the fork steerer tube as you can.
-5.  Undo the screw from the starnut, releasing the quill adapter, the screw and the wasers from the starnut.
+5.  Undo the screw from the starnut, releasing the quill adapter, the screw and the wasers from the starnut, withdrawing all from within the steerer.
 
 To Install the fork and quill stem adapter...
-6.  Insert the fork steerer tube into the frame head tube, complete with crown bearings and races on the steerer.
-7.  Put the head races and bearings on the fork steerer tube.
-8.  Repplace the M5x25 screw with an M5x35 screw inside the quill adapter through the hole at the bottom, using a long Allen wrench.
-9.  With the Allen wrench still in the head of the screw, and withot the top bearings, races and spacers installed, insert the quill adapter into the top end of the steerer tube, tighting the screw into the starnut when they engage. If you have enough spacers, screw and starnut should pull the bearings and spacers tight, just like a head cap, screw and starnut do on a normal threadless head. Use the correct torque to lock the screw down.
+1.  Insert the fork steerer tube into the frame head tube, complete with crown bearings and races on the steerer.
+2.  Put the head races and bearings on the fork steerer tube.
+3.  Repplace the M5x25 screw with an M5x35 screw inside the quill adapter through the hole at the bottom, using a long Allen wrench.
+4.  With the Allen wrench still in the head of the screw, insert the quill adapter into the top end of the steerer tube, tightening the screw into the starnut when they engage. If you have enough spacers, the screw and starnut should pull the bearings and spacers tight, just like a head cap, screw and starnut do on a normal threadless headcap. Use the correct torque to lock the screw down.
 10. Finally, insert a standard 22.2mm quill stem and adjust it and tighten it just like the old days.
 
 ### Finish
