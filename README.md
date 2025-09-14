@@ -26,21 +26,19 @@ Updates quoting can be checked at [PCBWay](https://www.pcbway.com/rapid-prototyp
 ### Installation Instructions
 
 To install the star nut in the fork's steerer tube...
-    NOTE: Lubricate all contacting parts well! Inside & out.
-    1.  put an M5 x 25 screw down the inside of quill adapter so the thread protrudes from the hole at the bottom.
-    2.  Place 3 to 5 washers over the screw threads.
-    3.  Screw the starnut onto the M5 screw until it's lightly tight, making sure the wings of the starnut point up towards 
-        the quill adapter.
-    4.  Using a press (or a rubber mallet), use the quill adapter to drive the starnut as far down the fork steerer tube as 
-        you can.
-    5.  Undo the screw from the starnut, releasing the quill adapter, the screw and the wasers from the starnut.
+NOTE: Lubricate all contacting parts well! Inside & out.
+1.  put an M5 x 25 screw down the inside of quill adapter so the thread protrudes from the hole at the bottom.
+2.  Place 3 to 5 washers over the screw threads.
+3.  Screw the starnut onto the M5 screw until it's lightly tight, making sure the wings of the starnut point up towards the quill adapter.
+4.  Using a press (or a rubber mallet), use the quill adapter to drive the starnut as far down the fork steerer tube as you can.
+5.  Undo the screw from the starnut, releasing the quill adapter, the screw and the wasers from the starnut.
 
 To Install the fork and quill stem adapter...
-    6.  Insert the fork steerer tube into the frame head tube, complete with crown bearings and races on the steerer.
-    7.  Put the head races and bearings on the fork steerer tube.
-    8.  Repplace the M5x25 screw with an M5x35 screw inside the quill adapter through the hole at the bottom, using a long Allen wrench.
-    9.  With the Allen wrench still in the head of the screw, and withot the top bearings, races and spacers installed, insert the quill adapter into the top end of the steerer tube, tighting the screw into the starnut when they engage. If you have enough spacers, screw and starnut should pull the bearings and spacers tight, just like a head cap, screw and starnut do on a normal threadless head. Use the correct torque to lock the screw down.
-    10. Finally, insert a standard 22.2mm quill stem and adjust it and tighten it just like the old days.
+6.  Insert the fork steerer tube into the frame head tube, complete with crown bearings and races on the steerer.
+7.  Put the head races and bearings on the fork steerer tube.
+8.  Repplace the M5x25 screw with an M5x35 screw inside the quill adapter through the hole at the bottom, using a long Allen wrench.
+9.  With the Allen wrench still in the head of the screw, and withot the top bearings, races and spacers installed, insert the quill adapter into the top end of the steerer tube, tighting the screw into the starnut when they engage. If you have enough spacers, screw and starnut should pull the bearings and spacers tight, just like a head cap, screw and starnut do on a normal threadless head. Use the correct torque to lock the screw down.
+10. Finally, insert a standard 22.2mm quill stem and adjust it and tighten it just like the old days.
 
 ### Finish
 
