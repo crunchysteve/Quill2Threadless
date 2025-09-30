@@ -12,6 +12,7 @@ Instead of having a stem clamped around the top of the steerer tube, the Quill2T
 Download the STL file and use a *metal* 3D printing service like [JLC3DP](https://jlc3dp.com/3d-printing-quote) or [PCBWay](https://www.pcbway.com/rapid-prototyping/manufacture/?type=2&reffercode=TOP) to print it in your choice of stainless steel, aluminium (PCBWay only) or titaniam ~ *my* recommendation is 316 stainless steel as a compromise between cost, strength compared to a few grams of weight. The Selective Laser Melting 3D printing process (SLM) gives a mid grey matt finish that's ready to be polished on a buffing wheel with polishing paste or perfect for a podercoat to match your bike. (don't get too much coating on the inside, the tolerances are tight and the friction is needed for the quill to bind firmly inside. See SLM 3d printing links below, or consider a local SLM 3D printing firm if ther eis one near you.
 
 ### Pricing (as of 13 September 2025)
+<pre>
 Stainless Steel (316) = < AU$80 (PCBWay)
                         ~ AU$40 (JLC3DP) (Best value, equal quality)
 
@@ -19,6 +20,7 @@ Aluminium             = ~ AU$40 (PCBWay only but about the same price as if you 
 
 Titanium              = ~ AU$297 (PCBWay)
                         ~ AU$82 (JLC3DP) (Best value, can't compare quality, not paying $297 for an experiment!)
+</pre>
 
 Updates quoting can be checked at [PCBWay](https://www.pcbway.com/rapid-prototyping/manufacture/?type=2&reffercode=TOP)'s or [JLC3DP](https://jlc3dp.com/3d-printing-quote?spm=Jlc3dp.Homepage.1011.d1)'s automated quoting pages and can be ordered from those links if this part solves your problem. I receive no commission for any sales linked from here nor am I paid to promote them. It's entirely your call whether you buy from these services, I present them as a pricing guide only. If you have an SLM manufacturing service in your town, consider them for a quote, too. That provides local employment and reduces the product carbon mils, as well.
 
